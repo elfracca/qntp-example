@@ -1,8 +1,6 @@
 /**
  * @file param.h
- * @author Francesco Fraccaroli <francesco.fraccaroli@lever.it>
- * ### LICENSE
- * Copyright Lever srl 2015
+ * @author Francesco Fraccaroli
  *
  * @brief
  *
